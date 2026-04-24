@@ -6,4 +6,5 @@ Hello, I'm Hema sakshi👋
 - HTML, CSS, JavaScript(learning phase)  
 - Python (learning phase)  
 - Git & GitHub
-##not trying to be prefect but to atleast progress to be a consistent one 👩🏻‍🎓⭐⭐
+## goal:
+not trying to be prefect but to atleast progress to be a consistent one 👩🏻‍🎓⭐⭐
